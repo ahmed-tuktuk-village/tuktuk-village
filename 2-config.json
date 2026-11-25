@@ -1,0 +1,8 @@
+{
+  "villageName": "قريتنا",
+  "places": [
+    { "id": "stop", "name": "الموقف", "fare": 10 },
+    { "id": "main", "name": "الطريق الرئيسي", "fare": 15 },
+    { "id": "inside", "name": "مكان تاني جوه القرية", "fare": 10 }
+  ]
+}
